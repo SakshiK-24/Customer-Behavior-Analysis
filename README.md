@@ -80,9 +80,9 @@ Built an interactive dashboard to visualize:
 
 * `Customer_Behavior_Analysis.ipynb` – Data cleaning and analysis using Python
 * `Customer_Behavior_Analysis.sql` – SQL business insight queries
-* `Customer_Behavior_Dashboard.pbix` – Power BI dashboard
+* `Customer_Behavior_Analysis_Dashboard.pbix` – Power BI dashboard
 * `Customer_Behavior_Analysis_Report.pdf` – Detailed project report
-* `customer_shopping_behavior.csv` – CSV dataset
+* `data/` – CSV dataset
 
 ## 📌 Skills Demonstrated
 
