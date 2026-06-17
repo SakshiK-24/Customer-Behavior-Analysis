@@ -7,13 +7,6 @@ An end-to-end Customer Behavior Analysis project using Python, SQL Server, and P
 A leading retail company wants to better understand its customers shopping behavior in order to improve sales, customer satisfaction and long term loyalty. The management team has noticed changes in purchasing across demographics, product categories and sales channels (online vs offline). They are particularly interested in uncovering which factors, such as discounts, reviews, seasons or payment preferences, drive consumer decisions and repeat purchases. The task is to analyze the company's consumer behavior dataset to answer the following overarching business question:-
 "How can the company leverage consumer shopping data to identify trends, improve customer engagement and optimize marketing and product strategies?"
 
-## 🛠️ Tools & Technologies
-
-* Python (Pandas, NumPy)
-* SQL Server
-* Power BI
-* Jupyter Notebook
-
 ## 📂 Dataset Overview
 
 The dataset contains:
@@ -50,6 +43,7 @@ Key business questions explored:
 * Revenue contribution by age group
 
 ### 3. Dashboard Development (Power BI)
+![Customer Behavior Analysis Dashboard](images/Customer_Behavior_Dashboard.png)
 
 Built an interactive dashboard to visualize:
 
@@ -83,6 +77,14 @@ Built an interactive dashboard to visualize:
 * `Customer_Behavior_Analysis_Dashboard.pbix` – Power BI dashboard
 * `Customer_Behavior_Analysis_Report.pdf` – Detailed project report
 * `data/` – CSV dataset
+* `images/` - Dashboard image
+
+## 🛠️ Tools & Technologies Used
+
+* Python (Pandas, NumPy)
+* SQL Server
+* Power BI
+* Jupyter Notebook
 
 ## 📌 Skills Demonstrated
 
